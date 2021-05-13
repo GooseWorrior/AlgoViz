@@ -1,0 +1,26 @@
+.Workshop {
+    margin: 20px;
+}
+
+.CodeEditor {
+    margin-top: 20px;
+    height: 500px;
+    overflow: scroll;
+}
+
+.AlgorithmInfoFormDisplay {
+    display: flex;
+    flex-direction: row;
+}
+
+.OpenAlgorithmButton {
+    margin-right: 100px;
+}
+
+.AlgorithmInfoFormLabel {
+    margin: 5px 0 5px 0;
+}
+
+.DeleteButton {
+    margin-left: 20px;
+}
